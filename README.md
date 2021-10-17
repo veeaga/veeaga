@@ -1,6 +1,4 @@
-Hello im veeaga
-im like games, animes and movies
-im a brasilian from brazil dur
-
-oi eu sou o veeaga eu gosto de jogos, animes e filmes
-eu sou brasileiro mas isso você já deve saber
+- Hello! 👋🏽
+- Meu nome é Victor e meu apelido é veeaga🧑🏽
+- Eu gosto de animes, jogos e desenhar🎨
+- Estudando desenvolvimento de games🎮
